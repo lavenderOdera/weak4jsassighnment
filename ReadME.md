@@ -16,6 +16,9 @@ Write a JavaScript function named `calculateArea` that calculates and returns th
 
 Create a function called `counter` that returns another function. The inner function should increment and return a counter variable each time it's called. Use closures to achieve this. Test your counter function by creating multiple counters and incrementing them separately.
 
+
+Question 4 & 5 is not required, but is a bonus challenge.
+
 **Question 4: Function Expressions**
 
 Write a function expression named `calculate` that takes two parameters: `num1` and `num2`. The function should return an object with the following properties:
@@ -23,8 +26,6 @@ Write a function expression named `calculate` that takes two parameters: `num1` 
 - `difference` - the absolute difference between `num1` and `num2`.
 - `product` - the product of `num1` and `num2`.
 - `quotient` - the result of dividing `num1` by `num2`.
-
-Question 5 is not required, but is a bonus challenge.
 
 **Question 5: Callback Functions**
 
